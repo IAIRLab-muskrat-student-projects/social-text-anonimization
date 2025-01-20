@@ -1,0 +1,24 @@
+# PyTorch для машинного обучения
+torch>=1.10.0
+
+# PyTorch Lightning для обучения модели
+pytorch-lightning>=2.0.0
+
+# Transformers для работы с моделью BERT
+transformers>=4.25.0
+
+# Pandas для обработки датасетов
+pandas>=1.3.0
+
+# Scikit-learn для подсчёта cosine similarity
+scikit-learn>=1.0.0
+
+# NumPy для работы с массивами
+numpy>=1.21.0
+
+# Регулярные выражения для предобработки текста
+regex>=2021.4.4
+
+# tqdm для отображения прогресса
+tqdm>=4.64.0
+
